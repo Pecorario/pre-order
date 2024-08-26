@@ -6,6 +6,7 @@
   "dependencies": {
     "@craco/craco": "^6.4.5",
     "@date-io/dayjs": "2.13.1",
+    "@emotion/styled": "^11.13.0",
     "@fontsource/metropolis": "^4.5.1",
     "@mui/icons-material": "^5.3.1",
     "@mui/lab": "5.0.0-alpha.69",
@@ -59,6 +60,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1"
   }
 }
