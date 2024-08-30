@@ -2,7 +2,6 @@
   "name": "pre-order",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pecorario.github.io/pre-order",
   "dependencies": {
     "@craco/craco": "^6.4.5",
     "@date-io/dayjs": "2.13.1",
